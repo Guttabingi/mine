@@ -1,2 +1,2 @@
 # mine
-my first github repository
+my 1st github repository
